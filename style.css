@@ -1,6 +1,14 @@
 *{
     margin: 0;/*deixe a margem esquerda e direita nula */
     padding: 0;/*deixe a margem superior e inferior nula*/
-    box-sizing: border-box; /*crie uma barra invisivel para o corpo do site*/
-    
+    box-sizing: border-box; /*crie uma barra invisivel para o corpo do site*/  
 }
+.topo{
+    background-color: blue;/*cor do fundo do site*/
+    height: 15vh; /*tamanho do corpo do site 15% da tela*/
+}
+
+
+
+
+.
